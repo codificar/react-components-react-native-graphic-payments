@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "\u0016git+https://github.com/codificar/react-native-graphic-payments"
+    "url": "git+https://github.com/codificar/react-native-graphic-payments"
   },
   "dependencies": {
     "moment": "^2.21.0",
