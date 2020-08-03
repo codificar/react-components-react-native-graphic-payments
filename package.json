@@ -1,0 +1,23 @@
+{
+  "name": "react-native-graphic-payments",
+  "version": "1.0.0",
+  "description": "A graphic report of financial period",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016git+https://github.com/codificar/react-native-graphic-payments"
+  },
+  "dependencies": {
+    "moment": "^2.21.0",
+    "react-native-chart-kit": "^3.13.0",
+    "react-native-svg": "^9.13.3",
+    "react-native-root-toast": "^3.0.0",
+    "react-native-i18n": "^2.0.10",
+    "axios": "^0.19.2"
+  },
+  "author": "Codificar",
+  "license": "MIT"
+}
